@@ -1,0 +1,45 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.fotos_mainDiv{
+    border: 2px solid chartreuse;
+}
+
+.fotos_mainDiv img{
+    width: 100%;
+}
+
+.fotos_mainDiv h5, .fotos_mainDiv p{
+    margin: 20px;
+}
+
+.Filmes_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.Filmes_head i
+{
+float: right;
+}
+
+.Filmes_text span
+{
+color: crimson;
+}
+
+.livros 
+{
+    margin-bottom: 20px;
+}
+
+
+#contato iframe
+{
+    width: 100%;
+}
